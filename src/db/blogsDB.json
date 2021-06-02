@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Something new.",
+    "author": "Kylo",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, quam nostrum. Pariatur dolore adipisci ut nemo nihil et facere minus."
+  },
+  {
+    "id": "2",
+    "title": "The time is now.",
+    "author": "Dart",
+    "content": "Est, quam nostrum. Pariatur dolore adipisci ut nemo nihil et facere minus."
+  },
+  {
+    "id": "3",
+    "title": "Whaaat??",
+    "author": "Han",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestiae eligendi temporibus sint deleniti ipsam possimus libero modi labore enim, fuga doloremque magni eius tempora rem, perspiciatis incidunt delectus quis?"
+  }
+]
